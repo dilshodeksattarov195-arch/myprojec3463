@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configcave",
+        "uuid": 15102143,
+        "checksum": "8uc6z"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
